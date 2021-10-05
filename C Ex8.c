@@ -1,6 +1,5 @@
 /* 
-The following program is supposed to extract the address
- of the variable with the maximum value
+The program is supposed to print which day precedes the next
  
  */
  
