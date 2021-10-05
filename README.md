@@ -9,3 +9,6 @@ For each code snippet, if it is incorrect you must specify what the error is and
 
 If the code snippet is incorrect, explain how it performs its task
 
+All by the ANSI-C90 standarts 
+
+![image](https://user-images.githubusercontent.com/29573450/135942930-4a7baaf1-6f71-4994-b0bd-5ea6d9e8f2c5.png)
