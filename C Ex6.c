@@ -26,3 +26,22 @@ int main (void)
 		printf("max is: %d",*p);
 		return 0;
 	}
+
+
+
+
+
+/* Answer below 
+
+
+
+
+
+
+
+The function works fine, but the address it returns is the address of a local pointer,
+So it will be deleted as soon as it is finished, and the printf command will lead to a crash.
+You can add static to local variables so that memory is not erased,
+or malloc them so that they are kept in the heap
+
+*/
