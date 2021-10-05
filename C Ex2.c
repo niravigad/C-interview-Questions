@@ -1,3 +1,8 @@
+/* The following plan creates a record for defining car data
+   (used for a plan for a car rental company)
+   */
+
+
 enum color_t {red=1,white,black,blue};
 
 struct car
