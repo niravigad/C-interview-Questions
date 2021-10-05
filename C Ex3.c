@@ -1,3 +1,8 @@
+/* 
+The following program should print the warning: "no parking - construction area"
+According to the parameter of the function f
+*/
+
 #include <stdio.h>
 #define MESSAGE3 3
 #define MESSAGE4 4
