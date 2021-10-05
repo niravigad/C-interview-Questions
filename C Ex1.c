@@ -1,3 +1,9 @@
+/* The following program should check if the character 'a' is in the array,
+print and return how many times it appears
+*/
+
+
+
 #include <stdio.h>
 #define FIND 'a'
 int main(void)
