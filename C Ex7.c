@@ -1,6 +1,6 @@
 /* 
-The following program is supposed to extract the address
- of the variable with the maximum value
+The program should print 2 to the power of 3, and 2 to the power of 4.
+I.e. results 8 and 16
  
  */
  
