@@ -20,3 +20,20 @@ int main(void)
 	f(mes);
 	return(count);
 }
+
+/* Answer below
+
+
+
+
+
+
+
+
+
+The code snippet will not work as required,
+There is a logical error in line 7, the condition says that as long as the input is different from 3 or 4 you will print a "no parking" message.
+That is, the function will return TRUE to each input that enters, so the desired message will never be printed that we will reach return
+Can be corrected by changing the condition from || to &&
+
+*/
