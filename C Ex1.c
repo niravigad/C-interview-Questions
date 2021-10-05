@@ -16,3 +16,23 @@ int main(void)
 	free(p);
 	return(count);
 }
+
+
+/* Answer below
+
+
+
+
+
+
+
+
+The code snippet is incorrect,
+In line 16 the command free (p) is executed
+But memory can not be released for a pointer variable that has not been assigned a dynamic memory, so there are 2 solutions:
+1) Delete this line
+2) Assign a dynamic memory pointer, add the directory: <stdlib.h>
+
+add lines : 
+
+char* p  = (char *) malloc(sizeof(char));
