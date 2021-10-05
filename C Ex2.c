@@ -13,3 +13,19 @@ struct car
 	};
 	
 struct car car_oftheday;
+
+
+/* Answer below 
+
+
+
+
+
+
+
+
+The code snippet will not work as required,
+There is an error in line 12, not enough space has been allocated for the bits.
+Need to allocate 3 places and not 2 as written above
+
+*/
